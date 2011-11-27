@@ -1,7 +1,7 @@
 Summary:	Validating XML Parser
 Name:		xerces-c27
 Version:	2.7.0
-Release:	9
+Release:	11
 License:	ASL 2.0
 Group:		System/Libraries
 URL:		http://xml.apache.org/xerces-c/
