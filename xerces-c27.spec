@@ -127,3 +127,11 @@ mv $RPM_BUILD_ROOT%{_includedir}/xercesc $RPM_BUILD_ROOT%{_includedir}/xercesc-2
 %doc Readme.html LICENSE NOTICE STATUS credits.txt doc samples
 
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 2.7.0-11
++ Revision: 734286
+- rebuild
+- imported package xerces-c27
+
