@@ -4,7 +4,7 @@ Version:	2.7.0
 Release:	12
 License:	ASL 2.0
 Group:		System/Libraries
-URL:		http://xml.apache.org/xerces-c/
+URL:		https://xml.apache.org/xerces-c/
 Source0:        http://archive.apache.org/dist/xml/xerces-c/Xerces-C_2_7_0/source/xerces-c-src_2_7_0.tar.gz
 Patch0:		xerces-c--CVE-2009-1885.diff
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
